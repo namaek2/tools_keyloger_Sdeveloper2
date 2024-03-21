@@ -1,0 +1,5 @@
+.venv/
+token_tellegram.py
+key_api.py
+__pycache__/
+```
